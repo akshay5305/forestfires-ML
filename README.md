@@ -12,3 +12,5 @@ This project predicts the Fire Weather Index (FWI) using machine learning.
 ```bash
 pip install -r requirements.txt
 python application.py
+
+thank you
